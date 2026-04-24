@@ -47,7 +47,9 @@ A full-stack web application designed to serve as a modern, government-style ele
    ```bash
    npm run dev
    ```
-   *(Frontend starts on http://localhost:5173)*
+   ##  Live Demo
+
+[Click here to view the app](https://promptwars-ai-election-assistant-qkwxb2r7m.vercel.app)
 
 ### Features Implemented
 * **Dashboard UI:** A modern, clean, Dashboard with animated glassmorphism cards and layout.
