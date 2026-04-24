@@ -18,7 +18,7 @@ app.use("/api", apiRoutes);
 
 // Basic test route
 app.get("/", (req, res) => {
-  res.send("AI Election Assistant Backend is running 🚀");
+  res.send("AI Election Assistant Backend is running ");
 });
 
 // Server setup
