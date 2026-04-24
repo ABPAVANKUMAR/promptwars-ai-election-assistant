@@ -6,47 +6,7 @@ A full-stack web application designed to serve as a modern, government-style ele
 * **Frontend:** React (Vite), Tailwind CSS, Axios, Lucide React
 * **Backend:** Python (FastAPI), Uvicorn, OpenAI API, Pytesseract (OCR), SpeechRecognition
 
-## Instructions to Run
 
-### Backend Setup
-1. Open a terminal and navigate to the backend directory:
-   ```bash
-   cd backend
-   ```
-2. Create a virtual environment (optional but recommended):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # Mac/Linux
-   venv\Scripts\activate   # Windows
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Set up Environment Variables:
-   Create a `.env` file in the `backend` folder and add your OpenAI Key (Optional, it runs without it using mock data):
-   ```
-   OPENAI_API_KEY=your_actual_api_key
-   ```
-5. Run the FastAPI server:
-   ```bash
-   python main.py
-   ```
-   *(Backend starts on http://localhost:8000)*
-
-### Frontend Setup
-1. Open a new terminal and navigate to the frontend directory:
-   ```bash
-   cd frontend
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Run the Vite development server:
-   ```bash
-   npm run dev
-   ```
    ##  Live Demo
 
 [Click here to view the app](https://promptwars-ai-election-assistant-qkwxb2r7m.vercel.app)
