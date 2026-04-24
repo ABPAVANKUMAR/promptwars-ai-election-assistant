@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+tesseract
+pytesseract
+Pillow
+openai
+SpeechRecognition
+pydantic
+sqlalchemy
+python-dotenv
