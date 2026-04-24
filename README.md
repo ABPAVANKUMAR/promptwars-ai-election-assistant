@@ -55,3 +55,18 @@ A full-stack web application designed to serve as a modern, government-style ele
 * **Voice Input:** frontend allows mock voice command recording processed via SpeechRecognition on backend.
 * **Image OCR:** Fast OCR parsing for uploaded images from frontend.
 * **Responsive Sidebar:** complete routing using state for demonstration.
+
+  ## Application Preview
+##  Demo UI
+
+| Dashboard | Chat Assistant |
+|----------|----------------|
+| ![](dashboard.png) | ![](chat-assistant.png) |
+
+| Voter Services | Booth Finder |
+|----------------|--------------|
+| ![](voter-services.png) | ![](booth-finder.png) |
+
+| Notifications | Help |
+|--------------|------|
+| ![](notifications.png) | ![](help.png) |
